@@ -1,5 +1,4 @@
-# TGG-Project
-The Garden Group Project 2022
+# The Garden Group Project 2022
 This repository contains the source code for a NoSQL ticketing application developed for managing service tickets within an organization. The application is designed to streamline the process of handling and resolving device-related issues reported by employees.
 **Program made with c# and the program uses mongodb**
 
