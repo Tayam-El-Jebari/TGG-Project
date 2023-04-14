@@ -10,7 +10,6 @@ This repository contains the source code for a NoSQL ticketing application devel
 - Searching through incident/service tickets
 - Filtering a preloaded list of tickets
 - Forget Password functionality
-- API server 
 - Escalate/close tickets
 - Sorting a ticket list based on priority level
 - Transfer a ticket to another person
